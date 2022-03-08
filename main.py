@@ -1,0 +1,5 @@
+destination = ['San Fransico', 'Orlando', 'New York', 'Chicago']
+san_fransico_restaurants = ["Scoma's", 'Nopa', 'Nari', 'Plow']
+orlando_restaurants = ['bluezoo', 'Primo', 'Knife and Spoon', 'Grande Lakes']
+new_york_restaurants = ["Edith's Eatery", "Zou Zou's", 'Ci Siamo', 'Hawksmoor NYC']
+chicago_restaurants = ["Zaza's Pizzeria", 'Segnatore', 'Roux Diner', 'Bocadillo Market']
