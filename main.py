@@ -1,7 +1,5 @@
 import random
 
-
-
 def get_choice(choice_list, choice_type):
     random_choice = '0'
     previous_choice = '0'
